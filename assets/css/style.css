@@ -74,7 +74,7 @@ header nav ul li a {
 /* about me styling */
 
 .about h3 {
-    display: flex;
+    
     font-size: 40px;
     font-weight: 500;
     color: #295C89;
@@ -82,7 +82,7 @@ header nav ul li a {
     text-align: right;
     justify-content: flex-end;
     align-items: center;
-    flex: 10%;
+    flex: 0 0 10%;
     padding-right: 10px;
 }
 
@@ -90,13 +90,13 @@ header nav ul li a {
     display: flex;
     justify-content:flex-start;
     color: #295C89;
-    flex: 85%;
+    flex: 0 0 85%;
     padding-left: 30px;
 }
 
 /* work section */
 
-.projects h3 {
+.work-div h3 {
     display: flex;
     font-size: 40px;
     font-weight: 500;
@@ -105,10 +105,19 @@ header nav ul li a {
     text-align: right;
     justify-content: flex-end;
     align-items: center;
-    flex: 10%;
+    flex: 0 0 10%;
     padding-right: 10px;
 }
 
+.work-div .main-img {
+    width: 50%;
+    flex: 10%;
+} 
+
+.main-img img {
+   width: 800px;
+   height: auto;
+}
 
 /* contact me styling */
 
@@ -121,7 +130,7 @@ header nav ul li a {
     text-align: right;
     justify-content: flex-end;
     align-items: center;
-    flex: 10%;
+    flex: 0 0 10%;
     padding-right: 10px;
 }
 
@@ -129,7 +138,7 @@ header nav ul li a {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    flex: 85%;
+    flex: 0 0 85%;
     justify-content: space-around;
 }
 
