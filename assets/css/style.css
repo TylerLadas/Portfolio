@@ -78,34 +78,58 @@ header nav ul li a {
     font-size: 40px;
     font-weight: 500;
     color: #295C89;
-    padding-right: 10px;
     border-right: 4px solid #295C89;
     text-align: right;
+    justify-content: flex-end;
     align-items: center;
+    flex: 10%;
+    padding-right: 10px;
 }
 
 .about p {
     display: flex;
-    justify-content: start;
+    justify-content:flex-start;
     color: #295C89;
+    flex: 85%;
+    padding-left: 30px;
 }
+
+/* work section */
+
+.projects h3 {
+    display: flex;
+    font-size: 40px;
+    font-weight: 500;
+    color: #295C89;
+    border-right: 4px solid #295C89;
+    text-align: right;
+    justify-content: flex-end;
+    align-items: center;
+    flex: 10%;
+    padding-right: 10px;
+}
+
 
 /* contact me styling */
 
 .contact h3 {
+    display: flex;
     font-size: 40px;
     font-weight: 500;
     color: #295C89;
-    padding-right: 10px;
     border-right: 4px solid #295C89;
-    text-align: right;  
+    text-align: right;
+    justify-content: flex-end;
+    align-items: center;
+    flex: 10%;
+    padding-right: 10px;
 }
 
 .contact nav {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    width: 81%;
+    flex: 85%;
     justify-content: space-around;
 }
 
