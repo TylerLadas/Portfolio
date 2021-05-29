@@ -93,8 +93,7 @@ header nav ul li a {
 .about p {
     justify-content:flex-start;
     color: #295C89;
-    flex: 0 0 80%;
-    padding-left: 30px;
+    flex: 0 0 75%;
     margin-right: 50px;
 }
 
@@ -113,16 +112,14 @@ header nav ul li a {
     margin-left: 10px;
 }
 
-.work-div .main-img {
-    flex: 0 0 80%;
-    padding-left: 30px;
+.main-img {
+    background-image: url(../images/run-buddy.png);
+    background-size: cover;
+    flex: 0 0 75%;
     margin-right: 50px;
+    border: 5px solid #72C0C9;
+    height: 425px;
 } 
-
-.main-img img {
-   width: 1000px;
-   height: auto;
-}
 
 /* contact me styling */
 
@@ -143,7 +140,7 @@ header nav ul li a {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    flex: 0 0 80%;
+    flex: 0 0 75%;
     justify-content: space-around;
     margin-right: 50px;
 }
