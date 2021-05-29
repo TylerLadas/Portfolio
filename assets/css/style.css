@@ -119,7 +119,32 @@ header nav ul li a {
     margin-right: 50px;
     border: 5px solid #72C0C9;
     height: 425px;
+    display: flex;
+    align-items: flex-end;
+    
 } 
+
+.img-info {
+    background: #72C0C9;
+    align-content: flex-end;
+    height: 50px;
+    padding: 5px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.img-info h4 {
+    font-weight: 500;
+    flex: 0 0 100%;
+}
+
+.img-info p {
+    font-weight: 500;
+    font-size: 10px;
+}
 
 /* contact me styling */
 
