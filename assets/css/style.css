@@ -123,8 +123,8 @@ header nav ul li a {
 }
 
 .main-img {
-    background-image: url(../images/run-buddy.png);
-    background-size: cover;
+    /*background-image: url(../images/run-buddy.png);
+    background-size: cover;*/
     flex: 5 0 100%;
     border: 5px solid #72C0C9;
     display: flex;
@@ -133,8 +133,8 @@ header nav ul li a {
 }
 
 .secondary-img {
-    background-image: url(../images/horisen.png);
-    background-size: cover;
+    /*background-image: url(../images/horisen.png);
+    background-size: cover;*/
     display: flex;
     border: 5px solid #72C0C9;
     height: 225px;
@@ -144,8 +144,8 @@ header nav ul li a {
 }
 
 .placeholder-img {
-    background-image: url(../images/placeholder.jpeg);
-    background-size: cover;
+    /*background-image: url(../images/placeholder.jpeg);
+    background-size: cover;*/
     background-position: center ;
     display: flex;
     border: 5px solid #72C0C9;
