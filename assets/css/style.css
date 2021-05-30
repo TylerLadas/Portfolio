@@ -110,23 +110,43 @@ header nav ul li a {
     flex: 0 0 15%;
     padding-right: 10px;
     margin-left: 10px;
+    height: 850px;
+}
+
+.img-div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex: 0 0 75%;
+    margin-right: 50px;
+    align-content: space-between ;
 }
 
 .main-img {
     background-image: url(../images/run-buddy.png);
     background-size: cover;
-    flex: 0 0 75%;
-    margin-right: 50px;
+    flex: 5 0 100%;
     border: 5px solid #72C0C9;
-    height: 425px;
+    display: flex;
+    height: 375px;
+    align-items: flex-end;
+}
+
+.secondary-img {
+    background-image: url(../images/horisen.png);
+    background-size: cover;
+    display: flex;
+    border: 5px solid #72C0C9;
+    height: 225px;
+    flex: 0 0 49.5%;
     display: flex;
     align-items: flex-end;
-    
-} 
+}
 
 .img-info {
     background: #72C0C9;
     align-content: flex-end;
+    flex: 0 0 11%;
     height: 50px;
     padding: 5px;
     margin-bottom: 20px;
