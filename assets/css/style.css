@@ -143,6 +143,18 @@ header nav ul li a {
     align-items: flex-end;
 }
 
+.placeholder-img {
+    background-image: url(../images/placeholder.jpeg);
+    background-size: cover;
+    background-position: center ;
+    display: flex;
+    border: 5px solid #72C0C9;
+    height: 225px;
+    flex: 0 0 49.5%;
+    display: flex;
+    align-items: flex-end;
+}
+
 .img-info {
     background: #72C0C9;
     align-content: flex-end;
