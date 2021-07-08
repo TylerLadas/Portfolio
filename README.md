@@ -1,4 +1,5 @@
 # My Professional Portfolio
+![Screen Shot 2021-07-08 at 12 23 44 PM](https://user-images.githubusercontent.com/78171259/124957817-7ba85180-dfe7-11eb-8c2a-61ee2c8cadf7.png)
 
 ## Purpose
 A portfolio of my web developer work. 
@@ -9,8 +10,6 @@ A portfolio of my web developer work.
 
 ## Website
 https://tylerladas.github.io/Portfolio/
-
-![Screen Shot 2021-05-30 at 1 42 35 PM](https://user-images.githubusercontent.com/78171259/120114492-653bea00-c14d-11eb-99e7-8ed293308e5d.png)
 
 ## Contribution
 Created by Tyler Ladas
