@@ -133,7 +133,7 @@ header nav ul li a:hover {
 }
 
 .main-img {
-    background-image: url(../images/run-buddy.png);
+    background-image: url(../images/DiscoverUp.png);
     background-size: cover;
     flex: 5 0 100%;
     border: 5px solid #72C0C9;
@@ -144,7 +144,6 @@ header nav ul li a:hover {
 }
 
 .secondary-img {
-    background-image: url(../images/horisen.png);
     background-size: cover;
     display: flex;
     border: 5px solid #72C0C9;
@@ -155,16 +154,20 @@ header nav ul li a:hover {
     text-decoration: none;
 }
 
-.placeholder-img {
-    background-image: url(../images/placeholder.jpeg);
-    background-size: cover;
-    background-position: center ;
-    display: flex;
-    border: 5px solid #72C0C9;
-    height: 225px;
-    flex: 0 0 49.5%;
-    display: flex;
-    align-items: flex-end;
+.second-img {
+    background-image: url(../images/Weather.png);    
+}
+
+.third-img {
+    background-image: url(../images/Scheduler.png);
+}
+
+.fourth-img {
+    background-image: url(../images/Quiz.png);
+}
+
+.fifth-img {
+    background-image: url(../images/Password.png);
 }
 
 .main-img:hover, .secondary-img:hover, .placeholder-img:hover {
@@ -173,14 +176,15 @@ header nav ul li a:hover {
 
 .img-info {
     background: #72C0C9;
-    align-content: flex-end;
-    flex: 0 0 11%;
+    /* align-content: flex-end;
+    flex: 0 0 11%; */
     height: 50px;
+    width: max-content;
     padding: 5px;
     margin-bottom: 20px;
     line-height: 1.5;
-    display: flex;
-    flex-wrap: wrap;
+    /* display: flex;
+    flex-wrap: wrap; */
     align-items: center;
 }
 
