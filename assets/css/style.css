@@ -133,7 +133,7 @@ header nav ul li a:hover {
 }
 
 .main-img {
-    background-image: url(../images/DiscoverUp.png);
+    background-image: url(../images/Lettuce.png);
     background-size: cover;
     flex: 5 0 100%;
     border: 5px solid #72C0C9;
@@ -155,7 +155,7 @@ header nav ul li a:hover {
 }
 
 .second-img {
-    background-image: url(../images/Weather.png);    
+    background-image: url(../images/DiscoverUp.png);    
 }
 
 .third-img {
@@ -163,11 +163,11 @@ header nav ul li a:hover {
 }
 
 .fourth-img {
-    background-image: url(../images/Quiz.png);
+    background-image: url(../images/Tech.png);
 }
 
 .fifth-img {
-    background-image: url(../images/Password.png);
+    background-image: url(../images/Weather.png);
 }
 
 .main-img:hover, .secondary-img:hover, .placeholder-img:hover {
