@@ -1,5 +1,5 @@
 # My Professional Portfolio
-![Screen Shot 2021-07-08 at 12 23 44 PM](https://user-images.githubusercontent.com/78171259/124957817-7ba85180-dfe7-11eb-8c2a-61ee2c8cadf7.png)
+![Screen Shot 2021-09-08 at 3 59 48 PM](https://user-images.githubusercontent.com/78171259/132577090-9270f7ee-7e0b-4a93-85f9-e52a0bc4d521.png)
 
 ## Purpose
 A portfolio of my web developer work. 
